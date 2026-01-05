@@ -59,4 +59,4 @@ Uses a **Trie (Prefix Tree)** for efficient prefix-based searching:
 - **Language**: C++11
 - **Data Structure**: Trie (Prefix Tree)
 - **Terminal**: Raw mode for character-by-character input
-- **Platform**: macOS/Linux (uses termios.h)
+
